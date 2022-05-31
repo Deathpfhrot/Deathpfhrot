@@ -8,14 +8,13 @@
     </ul>
  </ul>
  <h3>Projects:</h3>
- <p dir="auto">👨‍👦‍👦 Twitter App:<br>
+ <p dir="auto">👨‍👦‍👦 Twitter App:
  https://zy-tweeties.herokuapp.com/,
-  <br>
  Team Project, MERN-Stack
   </p>
   
-  <p dir="auto">🎮 Free2Game:<br>
-  https://free2play-avengers.netlify.app/<br>
+  <p dir="auto">🎮 Free2Game:
+  https://free2play-avengers.netlify.app/
   Team Project, Front-End
   Ps: Allow CORS (Chrome Extension aktivieren)
   </p>
