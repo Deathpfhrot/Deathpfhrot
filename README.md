@@ -15,13 +15,17 @@
   </p>
   
   <p dir="auto">🎮 Free2Game:<br>
-  <a href="https://free2play-avengers.netlify.app/" target="_blank">
-    https://free2play-avengers.netlify.app/</a><br>
+  https://free2play-avengers.netlify.app/<br>
   Team Project, Front-End
-  <br>
   Ps: Allow CORS (Chrome Extension aktivieren)
   </p>
  
+ <h3>Connect with me:</h3>
+ <p>
+  <a href="https://www.linkedin.com/in/markus-schiller29/">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annabelle-jeffré" height="30" width="40" style="max-width: 100%;">
+  </a>
+  </p>
  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
