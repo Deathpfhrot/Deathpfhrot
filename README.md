@@ -15,8 +15,10 @@
   </p>
   
   <p dir="auto">🎮 Free2Game:<br>
-  https://free2play-avengers.netlify.app/<br>
+  <a href="https://free2play-avengers.netlify.app/" target="_blank">
+    https://free2play-avengers.netlify.app/</a><br>
   Team Project, Front-End
+  <br>
   Ps: Allow CORS (Chrome Extension aktivieren)
   </p>
  
