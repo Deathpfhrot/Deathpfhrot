@@ -24,8 +24,8 @@
   </p>
   
   <p dir="auto">🎧 Project Headphones:
-  https://deathpfhrot.github.io/headphonesProject/lev3_5-Headphone-Inspiration/index.html
-  </p>
+https://deathpfhrot.github.io/headphonesProject/lev3_5-Headphone-Inspiration/  
+</p>
   
   <p dir="auto">✊✋✌️ Project Rock-Paper-Scissor:
   https://deathpfhrot.github.io/Rock-Paper-Scissor/
@@ -43,7 +43,7 @@
   https://deathpfhrot.github.io/IlustraionNewProject/projectIllustration/
   </p>
   <p dir="auto">🥗 Kochwelt:
-  https://deathpfhrot.github.io/Kochwetl3rd/pizza-rezept.html
+https://deathpfhrot.github.io/Kochwetl3rd/
   Team Project
   </p>
   
