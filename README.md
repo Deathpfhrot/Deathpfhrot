@@ -18,6 +18,38 @@
   Team Project, Front-End
   Ps: Allow CORS (Chrome Extension aktivieren)
   </p>
+  
+  <p dir="auto"> 🏞 Project California Calling:
+  https://deathpfhrot.github.io/Projekt-California_Calling/
+  </p>
+  
+  <p dir="auto">🎧 Project Headphones:
+  https://deathpfhrot.github.io/headphonesProject/lev3_5-Headphone-Inspiration/index.html
+  </p>
+  
+  <p dir="auto">✊✋✌️ Project Rock-Paper-Scissor:
+  https://deathpfhrot.github.io/Rock-Paper-Scissor/
+  </p>
+  
+  <p dir="auto">☕️ Projekt Coffee & Co.:
+  https://deathpfhrot.github.io/Coffe-and-Go-Projekt/lev3_4-Coffee_&_Co/
+  </p>
+  
+  <p dir="auto">🛍 Projekt Design Shop:
+  https://deathpfhrot.github.io/projekt-design_shop/projekt-design_shop/
+  </p>
+  
+  <p dir="auto"> 🖌️ Project Illustrations:
+  https://deathpfhrot.github.io/IlustraionNewProject/projectIllustration/
+  </p>
+  <p dir="auto">🥗 Kochwelt:
+  https://deathpfhrot.github.io/Kochwetl3rd/pizza-rezept.html
+  Team Project
+  </p>
+  
+  
+  
+  
  
  <h3>Connect with me:</h3>
  <p>
