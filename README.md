@@ -4,7 +4,7 @@
   <li>🔭 I’m currently learning **React, more Front- and Backend-Basics, more Javascript</li>
   <li>⚙️ Work in progress:</li>
     <ul>
-      <li>::marker "Recreating some older Projects"</li>
+      <li>"Recreating some older Projects"</li>
     </ul>
  </ul>
  <h3>Projects:</h3>
@@ -37,14 +37,6 @@
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **Deathpfhrot/Deathpfhrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
